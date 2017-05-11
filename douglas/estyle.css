@@ -1,0 +1,107 @@
+	
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.var  li {
+				float:left;
+			}
+			
+			.var li a {
+				background-color:purple;
+				color:white;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.var li a:hover {
+				background-color:orange;
+			}
+			
+			.var li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.var li:hover > ul {
+				display:block;
+			}
+			
+			.var li ul li {
+				position:relative;
+			}
+			
+			.var li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+
+
+.flor{
+	background-image: url(3.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 70%;
+	height: 900px;
+	margin-left: 15%;
+	text-align: center;
+	color: white;
+	border-radius: 3.5em 3.5em 3.5em 3.5em;
+	padding: 4px;
+	border: 5px solid black;
+}
+
+}
+
+.parrafo{
+	color:white;
+	text-align: justify;
+}
+
+
+
+
+.sata{
+	background-image: url(20.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 70%;
+	height: 1100px;
+	margin-left: 15%;
+	text-align: center;
+	color: black;
+	border-radius: 3.5em 3.5em 3.5em 3.5em;
+	padding: 4px;
+	border: 5px solid black;
+
+}
+
+.rata , p{
+	background-: url();
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 70%;
+	height: 300px;
+	margin-left: 15%;
+	text-align: center;
+	color: black;
+	border-radius: 3.5em 3.5em 3.5em 3.5em;
+	padding: 4px;
+	 background-image:1px x 1px;
+“background-color: rgb(0,0,250); opacity: 0.8;”
+
+
+}
